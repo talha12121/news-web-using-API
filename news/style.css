@@ -1,0 +1,23 @@
+
+.nav-item  a{
+    color: rgb(254, 252, 249) !important;
+}
+.title, .des{
+    color: blue;
+}
+.btn1{
+    /* color: rgb(36, 244, 244); */
+    background-color: rgb(116, 114, 111);
+    width: 40%;
+    margin-left: 450px;
+}
+.card{
+    text-align: center;
+}
+@media only screen and (max-width: 550px){
+.btn1{
+    margin-left: 24px;
+    width: 80%;
+}
+    
+}
